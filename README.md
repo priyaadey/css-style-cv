@@ -20,3 +20,8 @@ This project is a personal portfolio website designed to showcase the skills, ex
 - **Flexbox** for layout control
 - **Grid Layout** for section organization
 - **Google Fonts** for custom typography
+
+## Credits
+
+- **Font:** [Roboto](https://fonts.google.com/specimen/Roboto) from Google Fonts
+- **Icons:** You can use icons from [FontAwesome](https://fontawesome.com/) if you'd like to enhance your project.
